@@ -1,0 +1,6 @@
+[submodule "hydrogen-storefront"]
+	path = hydrogen-storefront
+	url = ./hydrogen-storefront
+[submodule "studio-hydrogen-test"]
+	path = studio-hydrogen-test
+	url = ./studio-hydrogen-test
